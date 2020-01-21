@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sample test</description>
+   <name>Test1_RecorMode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e4c7fba-7030-4a24-93e3-07506cdd213e</testCaseGuid>
+</TestCaseEntity>

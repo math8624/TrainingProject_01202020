@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test the below app
+https://opensource-demo.orangehrmlive.com/</description>
+   <name>Test3_ManualMode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ebb4e3e5-3f98-43f3-9652-2400528c4bbe</testCaseGuid>
+</TestCaseEntity>
